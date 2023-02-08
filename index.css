@@ -1,0 +1,17 @@
+#pic{
+    height: 80px;
+    width: 280px;
+    margin-top: 300px;
+}
+
+body{
+    background-image: url(./back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 550px;
+}
+
+#start,#reverse{
+cursor: pointer;
+}
